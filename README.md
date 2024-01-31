@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Gupta</h1>
-<h3 align="center">An ambitious Developer from India. Love to make Android Appd.</h3>
+<h3 align="center">An ambitious Developer from India. Love to make Android Apps.</h3>
 
 - 🔭 I’m currently working on **Native Android Development**
 
