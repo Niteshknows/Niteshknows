@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working as Software Engineer at Zupee (Aug 2025-Present)
 - Worked in BirdEye as a Software Engineer (July 2022-Aug 2025)
+- Connect with me on Linkedin https://www.linkedin.com/in/niteshgupta2000/
 - 📫 Reach me at **niteshg2000@gmail.com**
 
 <h3 align="left">View My Progress at:</h3>
