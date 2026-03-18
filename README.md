@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nitesh Gupta</h1>
 <h3 align="center">An ambitious Developer from India. Love to make Android Apps.</h3>
 
-- 🔭 I’m currently working on **Native Android Development**
-
-- 📄 My Resume **https://bit.ly/3rEM8iM**
-
-- 🤝 I’m looking for job opportunities **as Software Developer**
-
+- 🔭 I’m currently working as Software Engineer at Zupee (Aug 2025-Present)
+- Worked in BirdEye as a Software Engineer (July 2022-Aug 2025)
 - 📫 Reach me at **niteshg2000@gmail.com**
 
 <h3 align="left">View My Progress at:</h3>
